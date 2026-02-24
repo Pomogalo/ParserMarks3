@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klg\\Documents\\GitHub\\ParserMarks3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116AC5F4-F66D-429C-9A87-625964BE8D0B}|ParserMarks.vcxproj|C:\\Users\\klg\\Documents\\GitHub\\ParserMarks3\\ParserMarks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{116AC5F4-F66D-429C-9A87-625964BE8D0B}|ParserMarks.vcxproj|solutionrelative:ParserMarks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParserMarks.cpp",
+              "DocumentMoniker": "C:\\Users\\klg\\Documents\\GitHub\\ParserMarks3\\ParserMarks.cpp",
+              "RelativeDocumentMoniker": "ParserMarks.cpp",
+              "ToolTip": "C:\\Users\\klg\\Documents\\GitHub\\ParserMarks3\\ParserMarks.cpp",
+              "RelativeToolTip": "ParserMarks.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-24T13:26:38.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

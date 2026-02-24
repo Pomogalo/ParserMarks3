@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11505.172 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParserMarks", "ParserMarks.vcxproj", "{116AC5F4-F66D-429C-9A87-625964BE8D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{116AC5F4-F66D-429C-9A87-625964BE8D0B}.Debug|x64.ActiveCfg = Debug|x64
+		{116AC5F4-F66D-429C-9A87-625964BE8D0B}.Debug|x64.Build.0 = Debug|x64
+		{116AC5F4-F66D-429C-9A87-625964BE8D0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{116AC5F4-F66D-429C-9A87-625964BE8D0B}.Debug|x86.Build.0 = Debug|Win32
+		{116AC5F4-F66D-429C-9A87-625964BE8D0B}.Release|x64.ActiveCfg = Release|x64
+		{116AC5F4-F66D-429C-9A87-625964BE8D0B}.Release|x64.Build.0 = Release|x64
+		{116AC5F4-F66D-429C-9A87-625964BE8D0B}.Release|x86.ActiveCfg = Release|Win32
+		{116AC5F4-F66D-429C-9A87-625964BE8D0B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78322D5B-0A64-4DD7-BDAE-4CE37C9A8E63}
+	EndGlobalSection
+EndGlobal
