@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    setlocale(LC_ALL, "RUS");
+    cout << "Hello World2";
 }
 
